@@ -2,6 +2,6 @@ public class gitTest {
     public void save() {
         System.out.println("git save...");
         System.out.println("git master save...");
-        System.out.println("git hot-fix save...");
+        System.out.println("git push save...");
     }
 }
