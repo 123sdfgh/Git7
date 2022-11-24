@@ -4,5 +4,6 @@ public class gitTest {
         System.out.println("git master save...");
         System.out.println("git push save...");
         System.out.println("git-ssh push save...");
+        System.out.println("git-ssh pull save...");
     }
 }
